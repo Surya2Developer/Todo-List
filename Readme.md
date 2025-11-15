@@ -14,9 +14,8 @@ A simple **To-Do List** web application that uses **localStorage** to save tasks
 - JavaScript
 
 ## Screenshot
-https://github.com/Surya2Developer/Todo-List/blob/0c4e7deb40cd0d9016a61dee20fe5202737121eb/img/Screenshot1.png
-https://github.com/Surya2Developer/Todo-List/blob/0c4e7deb40cd0d9016a61dee20fe5202737121eb/img/Screenshot2.png
-https://github.com/Surya2Developer/Todo-List/blob/0c4e7deb40cd0d9016a61dee20fe5202737121eb/img/Screenshot3.png
-<td><img src="https://github.com/Surya2Developer/Rubicsjdk/blob/main/Images/Screenshot1.png" width="300"/></td>
-    <td><img src="https://github.com/Surya2Developer/Rubicsjdk/blob/main/Images/Screenshot2.png" width="300"/></td>
-## Features
+<td><img src="https://github.com/Surya2Developer/Todo-List/blob/0c4e7deb40cd0d9016a61dee20fe5202737121eb/img/Screenshot1.png" width="300"/></td>
+<td><img src="https://github.com/Surya2Developer/Todo-List/blob/0c4e7deb40cd0d9016a61dee20fe5202737121eb/img/Screenshot2.png" width="300"/></td>
+<td><img src="https://github.com/Surya2Developer/Todo-List/blob/0c4e7deb40cd0d9016a61dee20fe5202737121eb/img/Screenshot3.png" width="300"/></td>
+
+
